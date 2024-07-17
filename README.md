@@ -17,36 +17,36 @@ The main objective of this project is to conduct a comprehensive analysis of Bli
 
  **Visualizations and Charts Requirements:**
 
-1. **Total Sales by Fat Content**
-**Purpose:** Analyze the impact of fat content on total sales.
-**Chart Type:** Donut Chart
-**Additional Analysis:** Assess how other KPIs vary with fat content.
+1. **Total Sales by Fat Content:**
+- **Purpose:** Analyze the impact of fat content on total sales.
+- **Chart Type:** Donut Chart
+- **Additional Analysis:** Assess how other KPIs vary with fat content.
 
-2. **Total Sales by Item Type**
-**Purpose:** Identify the performance of different item types in terms of total sales.
-**Chart Type:** Bar Chart
-**Additional Analysis:** Assess how other KPIs vary with item type.
+2. **Total Sales by Item Type ;**
+- **Purpose:** Identify the performance of different item types in terms of total sales.
+- **Chart Type:** Bar Chart
+- **Additional Analysis:** Assess how other KPIs vary with item type.
 
-3. **Fat Content by Outlet for Total Sales**
-**Purpose:** Compare total sales across different outlets segmented by fat content.
-**Chart Type:** Stacked Column Chart
-**Additional Analysis:** Assess how other KPIs vary with fat content across outlets.
+3. **Fat Content by Outlet for Total Sales:**
+- **Purpose:** Compare total sales across different outlets segmented by fat content.
+- **Chart Type:** Stacked Column Chart
+- **Additional Analysis:** Assess how other KPIs vary with fat content across outlets.
 
-4. **Total Sales by Outlet Establishment**
-**Purpose:** Evaluate how the age or type of outlet establishment influences total sales.
-**Chart Type:** Line Chart
+4. **Total Sales by Outlet Establishment:**
+- **Purpose:** Evaluate how the age or type of outlet establishment influences total sales.
+- **Chart Type:** Line Chart
 
-5. **Sales by Outlet Size**
-**Purpose:** Analyze the correlation between outlet size and total sales.
-**Chart Type:** Donut/Pie Chart
+5. **Sales by Outlet Size:**
+- **Purpose:** Analyze the correlation between outlet size and total sales.
+- **Chart Type:** Donut/Pie Chart
 
-6. **Sales by Outlet Location**
-**Purpose:** Assess the geographic distribution of sales across different locations.
-**Chart Type:** Funnel Map
+6. **Sales by Outlet Location:**
+- **Purpose:** Assess the geographic distribution of sales across different locations.
+- **Chart Type:** Funnel Map
 
-7. **All Metrics by Outlet Type**
-**Purpose:** Provide a comprehensive view of all key metrics broken down by different outlet types.
-**Chart Type:** Matrix Card
+7. **All Metrics by Outlet Type:**
+- **Purpose:** Provide a comprehensive view of all key metrics broken down by different outlet types.
+- **Chart Type:** Matrix Card
 
 **Insights and Learnings**
 As this is my first Power BI project, I got the opportunity to explore and utilize various features of this tool. Through this project, I gained valuable insights, including:
