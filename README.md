@@ -1,5 +1,6 @@
-**Blinkit Sales Analysis Dashboard
-Project Overview**
+**Blinkit Sales Analysis Dashboard**
+
+**Project Overview**
 The main objective of this project is to conduct a comprehensive analysis of Blinkit's sales performance and customer satisfaction. By leveraging various KPIs and BI visualizations, this dashboard aims to identify key insights and opportunities for optimization.
 
 **Steps Involved in the Project**
@@ -9,10 +10,10 @@ The main objective of this project is to conduct a comprehensive analysis of Bli
 4. **Analysis and Insights:** Conduct a detailed analysis using the dashboard to extract actionable insights.
 
 **Key Performance Indicators (KPIs) Requirements:**
-. **Total Sales:** Overall revenue generated from all items sold.
-. **Average Sales:**Average revenue per sale.
-. **Number of Items:** Total count of different items sold.
-.** Average Rating:** Average customer rating for items sold.
+- **Total Sales:** Overall revenue generated from all items sold.
+- **Average Sales:**Average revenue per sale.
+- **Number of Items:** Total count of different items sold.
+- **Average Rating:** Average customer rating for items sold.
 
  **Visualizations and Charts Requirements:**
 
@@ -50,10 +51,10 @@ The main objective of this project is to conduct a comprehensive analysis of Bli
 **Insights and Learnings**
 As this is my first Power BI project, I got the opportunity to explore and utilize various features of this tool. Through this project, I gained valuable insights, including:
 
-. The impact of fat content on total sales and how it varies across different outlets.
-. The performance of different item types in terms of total sales.
-. The influence of outlet establishment age or type on sales performance.
-. The correlation between outlet size and total sales.
-. The geographic distribution of sales across different locations.
+- The impact of fat content on total sales and how it varies across different outlets.
+- The performance of different item types in terms of total sales.
+- The influence of outlet establishment age or type on sales performance.
+- The correlation between outlet size and total sales.
+- The geographic distribution of sales across different locations.
 
 These insights have been instrumental in understanding Blinkit's sales dynamics and identifying areas for potential optimization.
