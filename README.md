@@ -11,7 +11,7 @@ The main objective of this project is to conduct a comprehensive analysis of Bli
 
 **Key Performance Indicators (KPIs) Requirements:**
 - **Total Sales:** Overall revenue generated from all items sold.
-- **Average Sales:**Average revenue per sale.
+- **Average Sales:** Average revenue per sale.
 - **Number of Items:** Total count of different items sold.
 - **Average Rating:** Average customer rating for items sold.
 
@@ -49,6 +49,7 @@ The main objective of this project is to conduct a comprehensive analysis of Bli
 - **Chart Type:** Matrix Card
 
 **Insights and Learnings**
+
 As this is my first Power BI project, I got the opportunity to explore and utilize various features of this tool. Through this project, I gained valuable insights, including:
 
 - The impact of fat content on total sales and how it varies across different outlets.
